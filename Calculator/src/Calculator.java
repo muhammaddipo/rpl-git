@@ -18,11 +18,11 @@ public class Calculator {
         
     }
     public float multiply(float a,float b){
-        
+        return a*b;
         
     }
     public float divsion(float a,float b){
-        
+        return a/b;
         
     }
 
